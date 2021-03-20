@@ -1,9 +1,9 @@
 public class Prostokat extends Czworokat
 {
 
-    Prostokat(double bok1, double bok2, double bok3, double bok4)
+    Prostokat(double bok1, double bok2)
     {
-        super(bok1, bok2, bok3, bok4, 90);
+        super(bok1, bok1, bok2, bok2, 90);
     }
 
     @Override

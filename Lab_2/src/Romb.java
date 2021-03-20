@@ -1,9 +1,9 @@
 public class Romb extends Czworokat
 {
 
-    Romb(double bok1, double bok2, double bok3, double bok4, double kat)
+    Romb(double bok1, double kat)
     {
-        super(bok1, bok2, bok3, bok4, kat);
+        super(bok1, bok1, bok1, bok1, kat);
     }
 
     @Override
