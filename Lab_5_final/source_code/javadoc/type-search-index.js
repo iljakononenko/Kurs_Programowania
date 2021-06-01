@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.iljaknk","l":"Main"},{"p":"com.iljaknk","l":"my_Frame"},{"p":"com.iljaknk","l":"my_JPanel"},{"p":"com.iljaknk","l":"Main.Thread_stopper"},{"p":"com.iljaknk","l":"WindowAdapter"}];updateSearchResults();

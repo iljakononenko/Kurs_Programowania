@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42ec778a-1f44-4363-9071-4ff20fcb1b24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Console_App/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_1/C++/Console_App/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Console_App/Program.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_1/C++/Console_App/Program.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/.vs/Lab_1/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/.vs/Lab_1/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/Lab_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/Lab_1.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/Lab_1.tlog/Lab_1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/Lab_1.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Lab_1.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Lab_1.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Lab_1.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Release/Lab_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Release/Lab_1.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Release/Lab_1.tlog/Lab_1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Release/Lab_1.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Release/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/Source.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/Lab_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/Lab_1.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/Lab_1.tlog/Lab_1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/Lab_1.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Release/Lab_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Release/Lab_1.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Release/Lab_1.tlog/Lab_1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Release/Lab_1.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1/C++/Lab_1/Lab_1/x64/Release/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Czworokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Czworokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Kolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Kolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Kwadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Obliczenia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Obliczenia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Pieciokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Pieciokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Romb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Romb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_2/src/Szesciokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_2/src/Szesciokat.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1rTyNCbXWtpal6LmY5MCoMd1cOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\Kurs_Programowania\Lab_3\src\com\iljaknk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.iljaknk.Main" />
+      <module name="Lab_3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42ec778a-1f44-4363-9071-4ff20fcb1b24" name="Default Changelist" comment="" />
+      <created>1619014331413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619014331413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1619040341964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619040341964" />
+    <state width="1860" height="344" key="GridCell.Tab.0.bottom" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.0.bottom/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.0.center" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.0.center/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.0.left" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.0.left/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.0.right" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.0.right/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.1.center" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.center/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.1.left" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.left/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right" timestamp="1619044537978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.right/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1619044537978" />
+  </component>
+</project>

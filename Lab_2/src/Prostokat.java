@@ -14,4 +14,9 @@ public class Prostokat extends Czworokat
         return pole;
     }
 
+    @Override
+    public String get_name()
+    {
+        return "Prostokat";
+    }
 }

@@ -22,4 +22,10 @@ public class Kolo extends Figura
         obwod = Math.round(obwod * 10.0) / 10.0;
         return obwod;
     }
+
+    @Override
+    public String get_name()
+    {
+        return "Kolo";
+    }
 }

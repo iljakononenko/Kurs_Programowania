@@ -22,4 +22,10 @@ public class Szesciokat extends Figura
         obwod = bok * 6;
         return obwod;
     }
+
+    @Override
+    public String get_name()
+    {
+        return "Szesciokat";
+    }
 }

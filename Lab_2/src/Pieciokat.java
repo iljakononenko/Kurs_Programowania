@@ -22,4 +22,10 @@ public class Pieciokat extends Figura
         obwod = bok * 5;
         return obwod;
     }
+
+    @Override
+    public String get_name()
+    {
+        return "Pieciokat";
+    }
 }

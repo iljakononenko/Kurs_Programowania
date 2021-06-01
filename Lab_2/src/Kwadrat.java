@@ -14,4 +14,9 @@ public class Kwadrat extends Czworokat
         return pole;
     }
 
+    @Override
+    public String get_name()
+    {
+        return "Kwadrat";
+    }
 }
