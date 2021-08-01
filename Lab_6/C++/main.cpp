@@ -218,6 +218,7 @@ int main()
     new_tree.Insert(1);
     new_tree.Insert(6);
     new_tree.Draw(new_tree.root);
+    cout << "-----------------------------------------------------------------------------------------" << endl;
     Tree_node<int> *search_value = new_tree.Search(new_tree.root, 2);
     cout << endl
          << search_value->right_child->data << " " << search_value->left_child->data;
@@ -227,9 +228,11 @@ int main()
 
     new_tree.Delete(2);
     new_tree.Draw(new_tree.root);
+    cout << "-----------------------------------------------------------------------------------------" << endl;
     cout << endl;
     new_tree.Insert(3);
     new_tree.Draw(new_tree.root);
+    cout << "-----------------------------------------------------------------------------------------" << endl;
 
     return 0;
 }
